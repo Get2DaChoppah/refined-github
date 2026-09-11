@@ -127,7 +127,7 @@
 		"rollup-plugin-svelte": "^7.2.3",
 		"rollup-plugin-webpack-stats": "^2.1.9",
 		"snarkdown": "^2.0.0",
-		"svelte": "^5.48.1",
+		"svelte": "^5.57.0",
 		"svelte-eslint-parser": "^1.4.1",
 		"type-fest": "^5.4.1",
 		"typed-query-selector": "^2.12.0",
